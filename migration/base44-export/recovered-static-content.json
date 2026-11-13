@@ -1,0 +1,49 @@
+{
+  "_source": "Recovered verbatim from the Base44 production bundle /assets/index-CRhbZ3jf.js on 2026-11-13 (constant `_s` and author byline).",
+  "categories": [
+    {
+      "slug": "naval-technology",
+      "name": "Naval Technology",
+      "short": "Naval Tech",
+      "domain": "01",
+      "description": "Sub-surface, surface action groups, and maritime projection.",
+      "comingSoonTitle": "Next-Gen Subsurface Combatants & Autonomous Arrays",
+      "comingSoonDesc": "Analysis of unmanned underwater vehicles (UUV) and active sonar netting structures is currently undergoing peer review and data collection."
+    },
+    {
+      "slug": "air-power",
+      "name": "Air Power",
+      "short": "Air Power",
+      "domain": "02",
+      "description": "Combat aircraft, strategic bombers, and aerial dominance systems.",
+      "comingSoonTitle": "Next-Generation Air Superiority & Stealth Platforms",
+      "comingSoonDesc": "Analysis of fifth and sixth-generation fighter programs and stealth technology is currently being compiled."
+    },
+    {
+      "slug": "land-systems",
+      "name": "Land Systems",
+      "short": "Land Systems",
+      "domain": "03",
+      "description": "Armoured vehicles, artillery, and ground combat platforms.",
+      "comingSoonTitle": "Modern Armoured Warfare & Mobile Fire Platforms",
+      "comingSoonDesc": "Analysis of main battle tanks, self-propelled artillery, and infantry fighting vehicles is in preparation."
+    },
+    {
+      "slug": "missile-technology",
+      "name": "Missile Technology",
+      "short": "Missiles",
+      "domain": "04",
+      "description": "Cruise, ballistic, and hypersonic precision strike systems.",
+      "comingSoonTitle": "Cruise Missiles: Precision, Propulsion, and Geopolitical Deterrence",
+      "comingSoonDesc": "An analytical deep dive into navigation systems, structural engineering, and strategic applications of global cruise missile systems."
+    }
+  ],
+  "authors": [
+    {
+      "slug": "pranav-v-rao",
+      "name": "Pranav V Rao",
+      "title": "Founder & Editor-in-Chief, StratScope",
+      "initials": "PVR"
+    }
+  ]
+}

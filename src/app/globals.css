@@ -1,0 +1,156 @@
+@import "tailwindcss";
+
+/* StratScope brand tokens — recovered from the original site. */
+@theme {
+  --color-ink: #080b11;
+  --color-abyss: #010204;
+  --color-gold: #d4af37;
+  --color-snow: #f9fafb;
+
+  --font-serif: var(--font-playfair), "Playfair Display", Georgia, serif;
+  --font-sans: var(--font-dm-sans), "DM Sans", system-ui, sans-serif;
+  --font-mono: var(--font-jetbrains), "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+}
+
+:root {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--color-ink);
+  color: var(--color-snow);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: var(--color-gold);
+  color: var(--color-abyss);
+}
+
+:focus-visible {
+  outline: 1px solid var(--color-gold);
+  outline-offset: 2px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+@keyframes slide-up {
+  from {
+    opacity: 0;
+    transform: translateY(1rem);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-slide-up {
+  animation: slide-up 0.5s ease-out both;
+}
+
+/* ---- Article body (rules carried over from the original stylesheet) ---- */
+.article-body h1,
+.article-body h2,
+.article-body h3,
+.article-body h4 {
+  font-family: var(--font-serif);
+  color: #f9fafb;
+  font-weight: 700;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+  line-height: 1.2;
+  scroll-margin-top: 6rem;
+}
+.article-body h1 { font-size: 2rem; }
+.article-body h2 { font-size: 1.75rem; }
+.article-body h3 { font-size: 1.375rem; }
+.article-body h4 { font-size: 1.125rem; }
+.article-body > :first-child { margin-top: 0; }
+.article-body p { margin-bottom: 1.25rem; color: #d1d5db; }
+.article-body ul,
+.article-body ol { margin-bottom: 1.25rem; padding-left: 1.5rem; }
+.article-body ul { list-style: disc; }
+.article-body ol { list-style: decimal; }
+.article-body li { margin-bottom: 0.5rem; color: #d1d5db; }
+.article-body li > p { margin-bottom: 0.25rem; }
+.article-body strong { color: #f3f4f6; }
+.article-body blockquote {
+  border-left: 4px solid #d4af37;
+  padding-left: 1.5rem;
+  font-style: italic;
+  color: #9ca3af;
+  margin-bottom: 1.5rem;
+}
+.article-body pre {
+  background: #010204;
+  border: 1px solid rgb(255 255 255 / 0.1);
+  padding: 1rem;
+  overflow-x: auto;
+  margin-bottom: 1.5rem;
+  border-radius: 4px;
+}
+.article-body code { font-family: var(--font-mono); font-size: 0.875rem; }
+.article-body p code,
+.article-body li code {
+  background: #010204;
+  padding: 0.125rem 0.375rem;
+  border-radius: 2px;
+  color: #d4af37;
+}
+.article-body a { color: #d4af37; text-decoration: underline; }
+.article-body a:hover { color: #f9fafb; }
+.article-body img {
+  max-width: 100%;
+  height: auto;
+  margin: 1.5rem 0;
+  border: 1px solid rgb(255 255 255 / 0.1);
+}
+.article-body table { width: 100%; border-collapse: collapse; margin-bottom: 1.5rem; display: block; overflow-x: auto; }
+.article-body th,
+.article-body td { border: 1px solid rgb(255 255 255 / 0.1); padding: 0.75rem; text-align: left; }
+.article-body th {
+  background: #010204;
+  color: #9ca3af;
+  font-family: var(--font-mono);
+  font-size: 0.75rem;
+  text-transform: uppercase;
+}
+.article-body .ql-align-center,
+.article-body .text-center { text-align: center; }
+.article-body .ql-align-right,
+.article-body .text-right { text-align: right; }
+.article-body .ql-align-justify,
+.article-body .text-justify { text-align: justify; }
+
+/* ---- Tiptap editor (admin) ---- */
+.editor-content .ProseMirror {
+  min-height: 420px;
+  outline: none;
+  padding: 1.25rem;
+}
+.editor-content .ProseMirror p.is-editor-empty:first-child::before {
+  content: attr(data-placeholder);
+  color: #4b5563;
+  float: left;
+  height: 0;
+  pointer-events: none;
+}
+.editor-content .ProseMirror img.ProseMirror-selectednode {
+  outline: 2px solid #d4af37;
+}
