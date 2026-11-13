@@ -1,0 +1,166 @@
+{
+  "categories": [
+    {
+      "slug": "naval-technology",
+      "name": "Naval Technology",
+      "short_name": "Naval Tech",
+      "domain_code": "01",
+      "description": "Sub-surface, surface action groups, and maritime projection.",
+      "coming_soon_title": "Next-Gen Subsurface Combatants & Autonomous Arrays",
+      "coming_soon_description": "Analysis of unmanned underwater vehicles (UUV) and active sonar netting structures is currently undergoing peer review and data collection.",
+      "sort_order": 1
+    },
+    {
+      "slug": "air-power",
+      "name": "Air Power",
+      "short_name": "Air Power",
+      "domain_code": "02",
+      "description": "Combat aircraft, strategic bombers, and aerial dominance systems.",
+      "coming_soon_title": "Next-Generation Air Superiority & Stealth Platforms",
+      "coming_soon_description": "Analysis of fifth and sixth-generation fighter programs and stealth technology is currently being compiled.",
+      "sort_order": 2
+    },
+    {
+      "slug": "land-systems",
+      "name": "Land Systems",
+      "short_name": "Land Systems",
+      "domain_code": "03",
+      "description": "Armoured vehicles, artillery, and ground combat platforms.",
+      "coming_soon_title": "Modern Armoured Warfare & Mobile Fire Platforms",
+      "coming_soon_description": "Analysis of main battle tanks, self-propelled artillery, and infantry fighting vehicles is in preparation.",
+      "sort_order": 3
+    },
+    {
+      "slug": "missile-technology",
+      "name": "Missile Technology",
+      "short_name": "Missiles",
+      "domain_code": "04",
+      "description": "Cruise, ballistic, and hypersonic precision strike systems.",
+      "coming_soon_title": "Cruise Missiles: Precision, Propulsion, and Geopolitical Deterrence",
+      "coming_soon_description": "An analytical deep dive into navigation systems, structural engineering, and strategic applications of global cruise missile systems.",
+      "sort_order": 4
+    }
+  ],
+  "authors": [
+    {
+      "id": "87ea5854-4626-519f-8e89-c9bbac880e78",
+      "slug": "pranav-v-rao",
+      "name": "Pranav V Rao",
+      "title": "Founder & Editor-in-Chief, StratScope",
+      "initials": "PVR",
+      "bio": ""
+    }
+  ],
+  "articles": [
+    {
+      "id": "c1220d57-2dae-5b80-ae9e-12466d6ce347",
+      "legacy_id": "6a58bb8a1c8ee3fa56aa6c4e",
+      "slug": "brahmos-the-game-changer",
+      "title": "BrahMos: The Game Changer",
+      "excerpt": "The story of Indo-Russian collaboration that produced the world's fastest supersonic cruise missile — from Dr. APJ Abdul Kalam's vision to a multi-platform weapon system across India's armed forces.",
+      "body": "\n<h2>Introduction</h2>\n<p>With wars shifting from melees to AI-controlled light machine guns, from dog fights to remotely controlled drone fights, from old conventional bombs to precision guided bunker busters and from 1st generation to 6th generation fighter jets and bombers, countries have advanced their warfare with real-time spoofing and next-generation munitions.</p>\n<p>India is no less in modern warfare as seen on multiple occasions, including <strong>Operation Sindoor</strong> and the <strong>Balakot air strikes</strong>. The DRDO and HAL have been playing a major role in attending to India's defence needs. After multiple conflicts with neighbouring countries, India understood the need to upgrade its missile systems, fighter jets and munitions.</p>\n\n<h2>Origins: The IGMDP and Dr. Kalam's Vision</h2>\n<p>Speaking about missile systems, it all started with the former president. The late <strong>Dr APJ Abdul Kalam</strong> starting the Integrated Guided Missile Development Programme (IGMDP) in the year 1983. The programme's main aim was to deliver indigenous missiles ranging from ballistic missiles like the Agni series to the Nag anti-tank missile series.</p>\n<p>In 1993, Mr Kalam was on a visit to Russia to explore more options about supersonic missiles (speed greater than the speed of sound). Mr Kalam was also the director of the DRDO during that time. He was shown a half-completed RAM jet — a supersonic combustion engine. It was left half-completed due to lack of funds on account of the dissolution of the Soviet Union. A RAM jet does not contain any moving parts or engine fans and runs completely on incoming air. It gives a major boost as it is much lighter, faster and ideal for supersonic missiles.</p>\n\n<h2>The Indo-Russian Partnership</h2>\n<p>Mr Kalam was incredibly impressed with this idea, and 5 years later, he signed a deal with NV Mikhailov, Russia's first Deputy Defence Minister, leading to the formation of <strong>BrahMos Aerospace (BA)</strong>. The investment made was $250 million. <em>Brah</em> signifies the Brahmaputra River in India, and <em>Mos</em> signifies the Moskva River in Russia.</p>\n<p>The DRDO and Russia's NPO Mashinostroyeniya were given the task to develop a supersonic cruise missile under the BrahMos Aerospace company. This highlighted the strength of bilateral ties between India and Russia, built on mutual trust and agreement.</p>\n\n<h2>Development and Induction Timeline</h2>\n<p>The project was a huge success, and in 2001, after 2 years of its formation, BrahMos took its first test as a supersonic cruise missile from a stationary vertical launcher from somewhere near the Odisha coast. After multiple tests in various places and conditions, the Indian Navy first inducted the BrahMos missiles on its warships in 2005. During this time, the missile had a range of 290 km. The <strong>INS Rajput</strong> (Indian Navy's destroyer) was the first one to induct the missiles.</p>\n<p>It was then inducted by the Indian Army in the year 2007, launching its own BrahMos regiments. It further continued its growth as it was inducted by the Indian Navy's submarine fleet in the year 2013. As the Indian Navy and the Indian Army showed steady progression in the induction of BrahMos missiles, the Indian Air Force, along with HAL, made necessary modifications to the Sukhoi <strong>Su-30 MKI</strong> fighter jets to induct the missiles. These were primarily used as air-to-surface missiles by the IAF. This course was completed in the year 2017 with successful tests.</p>\n<p>In 2016, as India joined the MTCR (Missile Technology Control Regime), the range of the missile was extended from 290 km to 350–400 km.</p>\n\n<h2>Key Features</h2>\n<p>Now the question is why India looked at it as a game changer, and why all three forces wanted hands on this. The BrahMos has key features such as:</p>\n<ul>\n<li><strong>Speed:</strong> Ranges from Mach 2.8 to Mach 3.5 (reaches 3 times the speed of sound, approx. 3,700 km/h). The speed gives a shorter flight time and makes it extremely difficult to intercept by defence systems.</li>\n<li><strong>Two-phase propulsion:</strong> It is a 2-phase missile using a solid propellant booster for initial acceleration, which then separates after launching. The second stage uses a RAM jet to propel to speeds of Mach 3.</li>\n<li><strong>Low-altitude flight:</strong> It is not a ballistic missile; that is, it doesn't have to reach space to hit the target. It travels at low heights, often away from enemy radar systems. Its terrain-hugging or low-altitude technology makes it fly low to the land.</li>\n<li><strong>Fire and Forget:</strong> The missile uses a 'Fire and Forget' technology. It is self-guided and requires no external guidance after launch. It can create its own flight paths and adjust its altitude to avoid detection.</li>\n<li><strong>Stealth:</strong> Its unique structure and low radar cross-section help it avoid radar detection.</li>\n<li><strong>Precision:</strong> Commendable precision with a Circular Error Probable (CEP) of less than 1 metre.</li>\n<li><strong>Navigation:</strong> It has its own navigation systems and GPS for pinpoint targeting and precision.</li>\n<li><strong>Payload:</strong> It carries a payload varying from 200 to 300 kg and is nuclear-capable as well.</li>\n<li><strong>Terminal manoeuvrability:</strong> During the last phase of its flight, it creates an S-path, making it even more difficult to intercept.</li>\n</ul>\n<p>All these features make it a formidable and versatile weapon ready to be integrated with various platforms across all three forces.</p>\n\n<h2>Future Developments</h2>\n<p>Currently, efforts are underway to develop the <strong>BrahMos extended-range missile</strong> with a range of 1,500 km and the <strong>BrahMos-II</strong>, which can reach Mach 8 (eight times the speed of sound). BrahMos Aerospace has its headquarters in New Delhi, with a new facility recently inaugurated in Lucknow, Uttar Pradesh.</p>\n<p>Defence Minister Rajnath Singh also stated that the missile was extensively used in Operation Sindoor for destroying terror launchpads. Efforts are ongoing to reduce the missile's weight and to integrate them with different platforms, including the HAL Tejas MK1A and MK2A fighter jets. Lighter versions are expected to feature enhanced stealth, extended range, and greater compatibility with various platforms.</p>\n<p>This significantly supports India's self-reliance efforts. It now ranks as the world's leading supersonic cruise missile.</p>\n",
+      "category": "missile-technology",
+      "author_id": "87ea5854-4626-519f-8e89-c9bbac880e78",
+      "author_name": "Pranav V Rao",
+      "status": "published",
+      "featured": true,
+      "hero_image": "/images/migrated/2d0f47e45_1446370961-BRAHMOS-Kol.jpg",
+      "hero_image_alt": "",
+      "hero_image_credit": "",
+      "gallery_images": [
+        "/images/migrated/2a25343e7_images1.jpg",
+        "/images/migrated/6f6d510d0_download1.jpg"
+      ],
+      "specifications": [
+        {
+          "parameter": "Type",
+          "sub_class": "Classification",
+          "value": "Supersonic cruise missile"
+        },
+        {
+          "parameter": "Speed",
+          "sub_class": "Performance",
+          "value": "Mach 2.8 – 3.5 (approx. 3,700 km/h)"
+        },
+        {
+          "parameter": "Range",
+          "sub_class": "Performance",
+          "value": "290 km (initial), 350–400 km (extended)"
+        },
+        {
+          "parameter": "Payload",
+          "sub_class": "Warhead",
+          "value": "200–300 kg (nuclear-capable)"
+        },
+        {
+          "parameter": "Propulsion",
+          "sub_class": "Engine",
+          "value": "2-phase: solid propellant booster + RAM jet"
+        },
+        {
+          "parameter": "Guidance",
+          "sub_class": "System",
+          "value": "Fire and Forget with GPS navigation"
+        },
+        {
+          "parameter": "Precision (CEP)",
+          "sub_class": "Accuracy",
+          "value": "Less than 1 metre"
+        },
+        {
+          "parameter": "Platforms",
+          "sub_class": "Integration",
+          "value": "Naval, Land (Army), Air (Su-30 MKI)"
+        },
+        {
+          "parameter": "Developer",
+          "sub_class": "Manufacturer",
+          "value": "BrahMos Aerospace (DRDO & NPO Mashinostroyeniya)"
+        }
+      ],
+      "source_references": [
+        "BrahMos Aerospace official documentation",
+        "DRDO — Integrated Guided Missile Development Programme (IGMDP)",
+        "Missile Technology Control Regime (MTCR) — India membership 2016",
+        "Ministry of Defence, Government of India — public statements"
+      ],
+      "tags": [
+        "brahmos",
+        "cruise-missile",
+        "supersonic",
+        "india",
+        "drdo",
+        "missile-technology"
+      ],
+      "seo_title": "BrahMos: The Game Changer — StratScope",
+      "seo_description": "The story of the Indo-Russian BrahMos supersonic cruise missile — from Dr. APJ Abdul Kalam's vision to a multi-platform weapon system across India's armed forces.",
+      "reading_time": 6,
+      "published_date": "2026-07-16",
+      "scheduled_date": null,
+      "created_at": "2026-07-16T11:07:54.507000Z",
+      "updated_at": "2026-07-16T11:07:54.507000Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": "90a9abbb-d0f9-51fe-8515-7ddc5d83ffcd",
+      "legacy_id": "6a5b8d1390b60d42365bc312",
+      "article_id": "c1220d57-2dae-5b80-ae9e-12466d6ce347",
+      "author_name": "Sudhanva",
+      "content": "Nice article… good information",
+      "likes": 1,
+      "is_hidden": false,
+      "created_at": "2026-07-18T14:26:27.656000Z"
+    },
+    {
+      "id": "cc5d5c4b-eaf9-53b5-ac70-2a3b7ddd06c5",
+      "legacy_id": "6a5a239871a45cf5c3b0f839",
+      "article_id": "c1220d57-2dae-5b80-ae9e-12466d6ce347",
+      "author_name": "ABC",
+      "content": "Good article",
+      "likes": 0,
+      "is_hidden": false,
+      "created_at": "2026-07-17T12:44:08.506000Z"
+    }
+  ]
+}
